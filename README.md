@@ -1,4 +1,4 @@
 # hello-world
 First-
 
-Hi everyone!
+Hi humans!
